@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swami Samarth Realty</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Swami Samarth Realty</h1>
+    <p>Your Trusted Property Partner</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#properties">Properties</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section class="hero">
+    <h2>Find Your Dream Home Today</h2>
+    <button>View Properties</button>
+</section>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>Swami Samarth Realty is a trusted real estate business providing residential, commercial and rental properties. 
+    We help clients buy, sell and invest in properties with transparency and dedication.</p>
+</section>
+
+<section id="properties">
+    <h2>Featured Properties</h2>
+    <div class="property-card">
+        <h3>2BHK Apartment</h3>
+        <p>Location: Pune</p>
+        <p>Price: ₹55 Lakhs</p>
+    </div>
+
+    <div class="property-card">
+        <h3>Commercial Office Space</h3>
+        <p>Location: Mumbai</p>
+        <p>Price: ₹1.2 Crore</p>
+    </div>
+</section>
+
+<section id="services">
+    <h2>Our Services</h2>
+    <ul>
+        <li>Property Buying & Selling</li>
+        <li>Rental Management</li>
+        <li>Property Investment Consultation</li>
+        <li>Legal Documentation Assistance</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>📍 Pune, Maharashtra</p>
+    <p>📞 +91 98765 43210</p>
+    <p>📧 swamisamarthrealty@gmail.com</p>
+</section>
+
+<footer>
+    <p>© 2026 Swami Samarth Realty. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
